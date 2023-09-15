@@ -1,5 +1,5 @@
 {
-  "name": "0x-bee-contracts",
+  "name": "matt-abi-contracts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0x-bee/contracts.git"
+    "url": "git+https://github.com/matt-abi/contracts.git"
   },
   "author": "0x50fc@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/0x-bee/contracts/issues"
+    "url": "https://github.com/matt-abi/contracts/issues"
   },
-  "homepage": "https://github.com/0x-bee/contracts#readme",
+  "homepage": "https://github.com/matt-abi/contracts#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^4.7.3"
   }
